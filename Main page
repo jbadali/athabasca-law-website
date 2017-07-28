@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head>
+<script src="test.js"></script>
+<link rel="stylesheet" type="text/css" href="Styles/CSS style.css" />
+<link rel="stylesheet" type="text/css" href="Styles/CSS style General Formatting.css" />
+<link rel="stylesheet" type="text/css" href="Styles/CSS font size button.css" />
+<link rel="stylesheet" type="text/css" href="Styles/CSS style Icons.css" />
+<link rel="stylesheet" type="text/css" href="Styles/CSS style Main page.css" />
+<link  type="text/javascript" src="test.js" /> </script>
+
+<!--<script type="text/javascript" src="./javascriptfolder/fontenlargement.js"></script>-->
+
+<script type="text/javascript" src="./javascriptfolder/fontenlargementbutton.js"></script>
+
+<!--<button id="myButton">Make font larger</button> -->
+
+<!--<input type="button" id="buttonfont" value="Make font larger" onclick="increaseFontSizeCommand()">
+<p id="fontsizeincrease">Font Size Test</p>PRIOR POSITION-->
+
+<!--<input type="button" value="Increase Font Size 1px" onclick="increaseFontSizeBy1px()">
+<p id="b">Font Size by 1 Pixel</p>-->
+
+
+
+</head>
+<body id="fontsizeincrease">
+
+<ul id="toplistbaronly">
+  <li id="toplistbaronly"><a href="Law Database Website.html" target="_blank"><strong>Home</strong></a></li>
+  <li id="toplistbaronly"><a href="Pages/Region Demographics.html" target="_blank">Region Demographics</a></li>
+  <li id="toplistbaronly"><a href="Pages/Kitchener-Waterloo-Cambridge.html" target="_blank">Law Firms</a></li>  
+  <li id="toplistbaronly"><a href="Pages/Types of Law.html" target="_blank">Types of Law</a></li>  
+  <li id="toplistbaronly"><a href="Pages/Lawyers.html" target="_blank">Lawyers</a></li>  
+  <li id="toplistbaronly"><a href="Pages/Contact.html" target="_blank">Contact</a></li>
+
+</ul>
+
+<!--unnecessary?</body>
+<body> -->
+<!-- <head>
+
+
+
+  
+
+<title>Lawyer Database</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+<meta name="Description information for Search engines and screen readers to read!" />
+
+
+
+
+</head> -->
+<br>
+<br>
+<h1>The Southwest Ontario Law Database</h1>
+
+
+<script type="text/javascript" src="displaydate.js"></script>
+
+<script src="displaydate.js"></script>
+
+<link  type="text/javascript" src="displaydate.js" /> </script>
+
+<script src="displaydate.js" type="text/javascript">
+</script>
+
+
+
+
+<link rel="stylesheet" type="text/javascript" href="displaydate.js" />
+<script type="text/javascript" src="./javascriptfolder/displaydate.js"></script>
+
+<p title="Law Database">
+Welcome to the Southwest Ontario Law Database, an initiative to provide access and visibility to lawyers and law firms in the Waterloo Region.
+<p> This website was borne from the desire to create a greater awareness of justice and legal services available in South-Western Ontario. Although promoting awareness does not itself guarantee the accessibility of justice to citizens, a database of availabe legal services can help users and clients be better informed consumers. Awareness of legal services available in our communities can also support civil planning, networking, and the evaluation of communities' legal capacity.</p>
+<!-- For later: h2 style="background-color:rgb(157,118,239)">
+Background-color set by using rgb(255,0,0)
+</h2>-->
+
+</p>
+<p id=:"fontsizeincrease">According to the Law Society of Upper Canada's <i>Rules of Professional Conduct</i>:</p>
+<blockquote cite="http://www.lsuc.on.ca/list.aspx?id=671">
+<span>4.1-1 A lawyer shall make legal services available to the public in an efficient and convenient way. (…)
+As a matter of access to justice, it is in keeping with the best traditions of the legal profession to provide services pro bono and to reduce or waive a fee when there is hardship or poverty or the client or prospective client would otherwise be deprived of adequate legal advice or representation. The Law Society encourages lawyers to provide public interest legal services and to support organizations that provide services to persons of limited means.
+</span></blockquote> 
+<p><span class="italics_andsize">Chapter 4, Section 4.1 Making Legal Services Available</span></p>
+<style> img {width:100%;} </style>
+<!--<a href="http://www.lsuc.on.ca/list.aspx?id=671">Law Society of Upper Canada <abbr title="Law Society of Upper Canada">(LSUC)</abbr></a>-->
+
+
+
+
+<p id="centrelsuclogo"><a href="http://www.lsuc.on.ca/lawyer-conduct-rules/"><img src="Pages/Images/Law_Society_of_Upper_Canada_(logo).jpg" alt="Law_Society_of_Upper_Canada_(logo)" style="width:266px;height:176px."></a></p>
+
+<h5 class="arialfontchange">If you are looking for the Waterloo Region's law website, <a href="https://www.waterloolaw.org/">click here</a>.</h5>
+
+
+
+
+<p> Through this website, legal services are viewable by firm, the type of law practised, and by lawyer. </p>
+
+<hr>
+<A HREF="Pages/Kitchener-Waterloo-Cambridge.html" target="_blank"><h1><i class="fa fa-id-card"></i> View firms in Kitchener/Waterloo/Cambridge </h1> </A>
+<hr>
+<A HREF="Pages/Types of Law.html" target="_blank"><h1> View Types of Law Practised in Tri-City Area </h1> </A>
+<hr>
+<A HREF="Pages/Lawyers.html" target="_blank"><h1> View Listing of Lawyers in the Region </h1> </A>
+
+
+
+
+
+<p id="newbuttonhere">Font Size Test</p>
+
+</body>
+<p class="troubleviewing">Having trouble viewing this page?</p>
+<input type="button" id="buttonfont" value="Make font larger" onclick="increaseFontSizeCommand()" onclick="newButtonCommand()">
+
+</html>
