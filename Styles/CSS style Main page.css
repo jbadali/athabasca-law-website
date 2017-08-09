@@ -1,0 +1,36 @@
+blockquote {
+    border: 1px solid black;
+    outline-style: double;
+    outline-color: purple;
+}
+
+footer {
+    font-family: arial, verdana, sans-serif;
+    padding: 1em;
+    color: white;
+    background-color: purple;
+    clear: left;
+    text-align: center;
+}
+
+<!-- .centrelsuclogo {
+    text-align:center
+} -->
+
+#opening_line {text-align: center;}
+
+
+img.centrelsuclogo {
+    height: 25%;
+    width: 25%;
+}
+
+#centrelsuclogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+<!--{margin-left:100px;}-->

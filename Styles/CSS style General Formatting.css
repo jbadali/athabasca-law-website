@@ -1,0 +1,83 @@
+body {background-color: #CCDBFF;}
+.opening line {text-align:center;}
+#opening line {text-align:center;}
+.toplistfont {font-family:arial;}
+.standoutsentence {text-align:right; font-family:arial, verdana, sans-serif;}
+p {font-family:arial, verdana; sans-serif;}
+div {font-family:arial, verdana; sans-serif;}
+.italics_andsize{font-style:italic;font-size:65%;margin-left:500px;}
+h1 {font-family:arial; text-align:center;}
+h2,h3,h4,h5,h6 {font-family:arial, verdana, sans-serif;}
+ul {font-family:arial;}
+.troubleviewing{font-size:125%;text-align:right;}
+.Lawyers Page{text-align:center;}
+
+a:link {
+    color: purple;
+}
+
+
+a:visited {
+    color: blue;
+}
+
+
+a:hover {
+    color: blue;
+}
+
+
+a:active {
+    color: lightblue;
+}
+
+#buttonfont{
+  background-color: #03A9F4;
+  border: none;
+  padding: 15px 25px;
+  text-transform: uppercase;
+  color: white;
+  font-weight: 700;
+  border-radius: 3px;
+  button-align:right;
+}
+
+
+#newtestforsizedecrease{
+  background-color: #03A9F4;
+  border: none;
+  padding: 15px 25px;
+  text-transform: uppercase;
+  color: white;
+  font-weight: 550;
+  border-radius: 3px;
+  button-align:left;
+}
+button:hover, button:focus{
+  background-color: #0074a9;
+  outline: none;
+
+
+<!--button{
+  background-color: #03A9F4;
+  border: none;
+  padding: 15px 25px;
+  text-transform: uppercase;
+  color: white;
+  font-weight: 700;
+  border-radius: 3px;
+}
+button:hover, button:focus{
+  background-color: #0074a9;
+  outline: none; -->
+
+button:active {
+    color: red;
+    background-color: pink;
+    padding: 8px;
+}
+
+img.printericon {
+    height: 100%;
+    width: 100%;
+}

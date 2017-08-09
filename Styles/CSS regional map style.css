@@ -1,0 +1,16 @@
+<!--img.waterlooregionmap {
+    height: 100%;
+    width: 100%;
+} Changes the relationship of the rectangles' area to the map of the region, thus map should stay the same size no matter the size of the window it conforms to -->
+
+.waterlooregionmap {
+    height: 100%;
+    width: 100%;
+}
+
+
+<!--.waterlooregionmap {
+    height: 1650px;
+    width: 1275px;
+    position:fixed !important;
+}-->
